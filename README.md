@@ -8,14 +8,15 @@
 
 **⚠️ 하이퍼링크가 없는 문서는 현재 작성중인 문서입니다. 강의가 진행됨에 따라 내용이 추가됩니다.**
 
-️ 
+**⚠️ 저번해 사용한 문서를 시간 문제로 완성하지 못해 재탕중인 문서입니다. 다행히도 이번 해에는 시간이 조금 남습니다.**
+
 ### 목차
 
 #### 1. IDE와 개발 환경
 - [기초 환경 설정하기](parts/01_setting_java/README.md)
 - [IDE 고르는 법](parts/02_about_ide/README.md)
-  - [Eclipse](https://github.com/java-lesson-cbnu/quickstart/tree/main/parts/02_about_ide#eclipse-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
-  - [IntelliJ](https://github.com/java-lesson-cbnu/quickstart/tree/main/parts/02_about_ide#intellij-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
+  - [Eclipse](https://github.com/java-lesson-cbnu-2023/quickstart/tree/main/parts/02_about_ide#eclipse-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
+  - [IntelliJ](https://github.com/java-lesson-cbnu-2023/quickstart/tree/main/parts/02_about_ide#intellij-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
 
 #### 2. 자바 기초 알아보기
 - [데이터 타입과 최적화]
