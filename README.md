@@ -17,6 +17,8 @@
 - [IDE 고르는 법](parts/02_about_ide/README.md)
   - [Eclipse](https://github.com/java-lesson-cbnu-2023/quickstart/tree/main/parts/02_about_ide#eclipse-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
   - [IntelliJ](https://github.com/java-lesson-cbnu-2023/quickstart/tree/main/parts/02_about_ide#intellij-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
+- [프로젝트 포크하기]
+  - [IntelliJ](parts/04_how_to_fork/intellij/README.md)
 
 #### 2. 자바 기초 알아보기
 - [데이터 타입과 최적화]
