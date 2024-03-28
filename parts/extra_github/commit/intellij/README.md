@@ -10,7 +10,7 @@
 
 이 섹션에서는 Github에 코드를 커밋하는 방법을 설명합니다.
 
-<b> 경고 : 해당 문서는 자신의 개인 PC에서 커밋한다는것을 가정으로 합니다. 개인 정보의 유출을 최소화하기 위해, 가능하면 커밋 및 푸시는 공용 PC에서 하지 않는것을 추천합니다. 만약 수행했다면, [아래의 가이드](https://github.com/java-lesson-cbnu-2023/quickstart/blob/main/parts/extra_github/commit/intellij/README.md#%EA%B9%83%ED%97%88%EB%B8%8C-%EC%97%B0%EB%8F%99-ide%EC%97%90%EC%84%9C-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)를 통해 Github 연동을 현제 PC에서 제거하세요.</b>
+<b> 경고 : 해당 문서는 자신의 개인 PC에서 커밋한다는것을 가정으로 합니다. 개인 정보의 유출을 최소화하기 위해, 가능하면 커밋 및 푸시는 공용 PC에서 하지 않는것을 추천합니다. 만약 수행했다면, [아래의 가이드](https://github.com/java-lesson-cbnu-2023/quickstart/blob/main/parts/extra_github/commit/intellij/README.md#%EA%B9%83%ED%97%88%EB%B8%8C-%EC%97%B0%EB%8F%99-ide%EC%97%90%EC%84%9C-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)를 통해 Github 연동을 현재 PC에서 제거하세요.</b>
 
 
 
