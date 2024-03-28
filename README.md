@@ -50,7 +50,6 @@
 - [IDE와 함꼐 활용하기]
   - [프로젝트 포크하기]
     - [IntelliJ](parts/extra_github/fork/intellij/README.md)
-#    - [Eclipse](parts/extra_how_to_fork/eclipse/README.md)
   - [프로젝트 커밋하기]
     - [IntelliJ](parts/extra_github/commit/intellij/README.md)
     
