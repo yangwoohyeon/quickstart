@@ -17,8 +17,6 @@
 - [IDE 고르는 법](parts/02_about_ide/README.md)
   - [Eclipse](https://github.com/java-lesson-cbnu-2023/quickstart/tree/main/parts/02_about_ide#eclipse-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
   - [IntelliJ](https://github.com/java-lesson-cbnu-2023/quickstart/tree/main/parts/02_about_ide#intellij-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
-- [프로젝트 포크하기]
-  - [IntelliJ](parts/04_how_to_fork/intellij/README.md)
 
 #### 2. 자바 기초 알아보기
 - [데이터 타입과 최적화]
@@ -46,6 +44,16 @@
 #### 4. 빌드 툴과 JVM
 
 #### 5. JVM 심화 - Kotlin
+
+#### x. Github 알아보기
+- [Github에 대한 이해](parts/extra_github/github.md)
+- [IDE와 함꼐 활용하기]
+  - [프로젝트 포크하기]
+    - [IntelliJ](parts/extra_github/fork/intellij/README.md)
+    - [Eclipse](parts/extra_how_to_fork/eclipse/README.md)
+  - [프로젝트 커밋하기]
+    - [IntelliJ](parts/extra_how_to_commit/intellij/README.md)
+    
 
 #### x. IDE 오류에 대한 대처 방안
 - 인코딩 문제 (한글 깨짐)
